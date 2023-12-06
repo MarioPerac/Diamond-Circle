@@ -1,0 +1,13 @@
+Player 1:
+Figure 1 (Ordinary Figure, RED), crossed path -4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25, time on map 22[s],  reached the finish field: YES!
+Figure 2 (Super Fast Figure, RED), crossed path -4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32, time on map 22[s],  reached the finish field: NO!
+Figure 3 (Ordinary Figure, RED), crossed path -4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17, time on map 14[s],  reached the finish field: NO!
+Figure 4 (Super Fast Figure, RED), crossed path -4-12-20-28-34-40-46-38-30-22-16-10, time on map 4[s],  reached the finish field: NO!
+
+Player 2:
+Figure 1 (Ordinary Figure, BLUE), crossed path -4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33, time on map 8[s],  reached the finish field: NO!
+Figure 2 (Super Fast Figure, BLUE), crossed path -4-12-20-28, time on map 4[s],  reached the finish field: NO!
+Figure 3 (Ordinary Figure, BLUE), crossed path -4-12-20-28-34, time on map 4[s],  reached the finish field: NO!
+Figure 4 (Ordinary Figure, BLUE), crossed path -4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26, time on map 18[s],  reached the finish field: NO!
+
+Total game duration: 128!

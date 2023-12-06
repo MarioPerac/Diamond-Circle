@@ -1,0 +1,13 @@
+Player 2:
+Figure 1 (Hovering Figure, BLUE), crossed path -5-16-27-38-49-60-69-78-87-96-85-74-63-52-41-32-23-14-15-26-37-48-59-68-77-86-75-64-53-42-33-24-25-36-47-58-67-76-65-54-43-34-35-46-57-66-55-44-45, time on map 42[s],  reached the finish field: YES!
+Figure 2 (Super Fast Figure, BLUE), crossed path -5-16-27-38-49-60-69-78-87-96-85-74-63-52-41-32-23-14-15-26-37-48-59-68-77-86-75-64-53-42-33-24-25-36-47-58-67-76-65-54-43-34-35-46-57-66-55-44-45, time on map 19[s],  reached the finish field: NO!
+Figure 3 (Hovering Figure, BLUE), crossed path -5-16-27-38-49-60-69-78-87-96-85-74-63-52-41-32-23-14-15-26-37-48-59-68-77-86-75-64-53-42-33-24-25-36-47-58-67-76-65-54-43-34-35-46-57-66-55-44-45, time on map 4[s],  reached the finish field: YES!
+Figure 4 (Ordinary Figure, BLUE), crossed path -5-16-27-38-49-60-69-78-87-96-85-74, time on map 12[s],  reached the finish field: NO!
+
+Player 1:
+Figure 1 (Super Fast Figure, RED), crossed path -5-16-27-38-49-60-69-78-87-96-85-74-63-52-41-32-23-14-15-26-37-48-59-68-77-86-75-64-53-42-33-24-25-36-47, time on map 16[s],  reached the finish field: NO!
+Figure 2 (Super Fast Figure, RED), crossed path -5-16-27-38-49-60-69-78-87-96-85-74-63-52-41-32-23-14-15-26-37-48-59-68-77-86-75-64-53-42-33-24-25-36-47-58-67-76-65-54-43, time on map 23[s],  reached the finish field: NO!
+Figure 3 (Super Fast Figure, RED), crossed path -5-16-27-38-49-60-69-78-87-96-85-74-63-52-41-32-23-14-15-26-37-48-59-68-77-86-75-64-53-42-33-24-25-36-47-58-67-76-65-54, time on map 12[s],  reached the finish field: NO!
+Figure 4 (Ordinary Figure, RED), crossed path -5-16-27-38-49-60-69-78-87-96-85-74-63-52-41-32-23-14-15-26-37-48-59-68-77-86-75-64-53-42-33-24-25-36-47-58-67-76-65-54-43-34-35-46-57-66, time on map 16[s],  reached the finish field: NO!
+
+Total game duration: 83!

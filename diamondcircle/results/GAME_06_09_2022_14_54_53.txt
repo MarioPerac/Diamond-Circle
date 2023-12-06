@@ -1,0 +1,19 @@
+Player 2:
+Figure 1 (Hovering Figure, BLUE), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 48[s],  reached the finish field: YES!
+Figure 2 (Hovering Figure, BLUE), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 11[s],  reached the finish field: YES!
+Figure 3 (Super Fast Figure, BLUE), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 10[s],  reached the finish field: YES!
+Figure 4 (Super Fast Figure, BLUE), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36, time on map 15[s],  reached the finish field: NO!
+
+Player 3:
+Figure 1 (Hovering Figure, GREEN), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 51[s],  reached the finish field: YES!
+Figure 2 (Ordinary Figure, GREEN), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 15[s],  reached the finish field: NO!
+Figure 3 (Hovering Figure, GREEN), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 2[s],  reached the finish field: YES!
+Figure 4 (Hovering Figure, GREEN), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 2[s],  reached the finish field: YES!
+
+Player 1:
+Figure 1 (Hovering Figure, RED), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 18[s],  reached the finish field: YES!
+Figure 2 (Hovering Figure, RED), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28, time on map 33[s],  reached the finish field: YES!
+Figure 3 (Ordinary Figure, RED), crossed path -4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53, time on map 18[s],  reached the finish field: NO!
+Figure 4 (Ordinary Figure, RED), crossed path -4-13-22, time on map 9[s],  reached the finish field: NO!
+
+Total game duration: 93!
